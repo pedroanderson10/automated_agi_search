@@ -34,6 +34,6 @@ public class a1_Search_With_Only_Letters extends ConfigStepsManageArticleSearch{
     @Then("o sistema deve mostrar uma nova página com o resultado da busca pelo texto")
     public void then(){
         assertEquals("Resultados da busca por: Bancos Digitais", resultsPage.searchResult());
-        resultsPage.closeBrowser();
+        //resultsPage.closeBrowser();
     }
 }

@@ -37,6 +37,6 @@ public class a2_Search_With_Only_Special_Characters extends ConfigStepsManageArt
     public void then(){
         assertEquals("Nenhum resultado", resultsPage.searchNoResults());
         assertEquals("Não encontramos nada para estes termos de busca. Tente novamente com palavras-chave diferentes.", resultsPage.messageSearchNoResults());
-        resultsPage.closeBrowser();
+        //resultsPage.closeBrowser();
     }
 }
