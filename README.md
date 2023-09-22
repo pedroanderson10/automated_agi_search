@@ -8,8 +8,8 @@
 
 ## Versão das plataformas :
 
-* Google Chrome : 111.0.5563.65
-* ChromeDriver : 111.0.5563.64
+* Google Chrome : 117.0.5938.92
+* ChromeDriver : 117.0.5938.92
 
 ## Execução dos testes
 
